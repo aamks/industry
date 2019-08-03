@@ -1,0 +1,20 @@
+{
+        "STORAGE_PRESSURE": 1e7,
+        "AMBIENT_PRESSURE": 1.01325e5,
+        "STORAGE_TEMP": 288.15,
+        "AMBIENT_TEMP": 288,
+        "GAS_CONSTANT": 8.314,
+        "SPECIFIC_GAS_CONSTANT": 518.28,
+        "MOLECULAR_MASS": 1.604e-2,
+        "MOLECULAR_MASS_AIR": 2.896e-2,
+        "POISSON_CONSTANT": 1.30788,
+        "HOLE_DIAMETER": 0.1,
+        "MACH_DISTANCE": 3.5,
+        "C_E": 0.2,
+        "WIND_SPEED": 5,
+        "OUTFLOW_ANGLE": 85,
+        "GRAVITY_CONSTANT": 9.80665,
+        "HEAT_OF_COMBUSTION": 5e7,
+        "DISTANCE_FROM_TARGET": 150,
+        "HUMIDITY": 0.7
+}
